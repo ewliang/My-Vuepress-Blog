@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: test post
+title: testing
 date: 2018-12-03T16:57:32.063Z
 thumbnail: /images/uploads/test-post.jpg
 ---
