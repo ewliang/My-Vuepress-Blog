@@ -6,8 +6,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Pages', link: '/page/' },
       { text: 'Blog', link: '/blog/' },
-      { text: 'Contact', link: '/contact' },
-      { text: 'Admin', link: '/admin/#/' }
+      { text: 'Contact', link: '/contact' }
     ]
   }
 }
